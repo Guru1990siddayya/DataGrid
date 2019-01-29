@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="SPDataGridWP.VisualWebPart.SPDataGridWP, SPDataGridWP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7425406532a5f075" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">SPDataGrid Webpart</property>
+        <property name="Description" type="string">Visual Web Part to display SQL Data</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

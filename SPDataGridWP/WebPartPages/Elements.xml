@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="WebPartPages" Url="SitePages">
+    <File Path="WebPartPages\DataGridPage.aspx" Url="DataGridPage.aspx"
+           Type="GhostableInLibrary" IgnoreIfAlreadyExists="FALSE">
+      <AllUsersWebPart WebPartOrder="0" WebPartZoneID="Main">
+        <![CDATA[
+          <webParts>
+            <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+              <metaData>
+                <type name="SPDataGridWP.VisualWebPart.SPDataGridWP, SPDataGridWP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7425406532a5f075" />
+                <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+              </metaData>
+              <data>
+                <properties>
+                  <property name="Title" type="string">SPDataGrid Webpart</property>
+                  <property name="Description" type="string">Visual Web Part to display SQL Data</property>
+                  <property name="Width" type="string">500px</property>
+                  <property name="Height" type="string">300px</property>
+                </properties>
+              </data>
+            </webPart>
+          </webParts>
+        ]]>
+      </AllUsersWebPart>
+    </File>
+   
+  </Module>
+</Elements>

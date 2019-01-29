@@ -1,0 +1,4 @@
+c:\users\spadmin\documents\visual studio 2013\Projects\SPDataGridWP\bin\Debug\SPDataGridWP.dll
+c:\users\spadmin\documents\visual studio 2013\Projects\SPDataGridWP\bin\Debug\SPDataGridWP.pdb
+c:\users\spadmin\documents\visual studio 2013\Projects\SPDataGridWP\obj\Debug\SPDataGridWP.dll
+c:\users\spadmin\documents\visual studio 2013\Projects\SPDataGridWP\obj\Debug\SPDataGridWP.pdb
